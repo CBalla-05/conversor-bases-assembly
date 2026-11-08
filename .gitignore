@@ -1,0 +1,14 @@
+# Archivos generados por emu8086 al compilar
+*.exe
+*.com
+*.bin
+*.binf
+*.lst
+*.symbol
+*.debug
+*.~asm
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
